@@ -80,4 +80,4 @@ Contributions are welcome! If you find any issues or have suggestions, feel free
 
 ## License
 
-[MIT](https://github.com/your-username/MiniShell/blob/master/LICENSE).
+[MIT](https://github.com/rdoukali42/MiniShell/blob/master/LICENSE).
